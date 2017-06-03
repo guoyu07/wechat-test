@@ -9,7 +9,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "yuncms\\note\\": ""
+      "xutl\\test\\": ""
     }
   },
   "extra": {
